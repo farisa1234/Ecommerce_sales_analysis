@@ -1,0 +1,27 @@
+# Ecommerce Sales Analysis
+
+## Project Overview
+Analyzed Superstore sales data using Python and Power BI.
+
+## Tools Used
+- Python
+- Pandas
+- Power BI
+- GitHub
+
+## Key Insights
+- Total Sales: $2.30M
+- Total Profit: $286K
+- Total Orders: 5009
+- Total Customers: 793
+- Technology generated the highest sales.
+- West region generated the highest sales.
+
+## Files
+- data/ : Dataset
+- python/ : Python analysis scripts
+- dashboard/ : Power BI dashboard
+- screenshots/ : Dashboard screenshots
+
+
+
